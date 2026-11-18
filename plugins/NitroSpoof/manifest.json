@@ -1,0 +1,11 @@
+{
+  "name": "NitroSpoof",
+  "description": "Use all emotes in any server without Nitro.",
+  "authors": [
+    { "name": "Xinto (original Aliucord plugin)" },
+    { "name": "Revenge port" }
+  ],
+  "main": "index.js",
+  "hash": "2b0311404036d581cc8efb179e93af3dfc43cc7991682883c9a0778b27d8af11",
+  "vendetta": { "icon": "ic_emoji_24px" }
+}
